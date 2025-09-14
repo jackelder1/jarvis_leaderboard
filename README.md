@@ -16,3 +16,5 @@ This project provides benchmark-performances of various methods for materials sc
 
 Website: https://atomgptlab.github.io/jarvis_leaderboard/
 
+Note: This project was originally developed under the github.com/usnistgov organization and is now maintained here by the lead developer.
+
